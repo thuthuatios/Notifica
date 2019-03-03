@@ -1,0 +1,25 @@
+{
+  "ENABLED" = "Bật";
+  "SETTINGS" = "Cài đặt";
+
+  "PRESET" = "Đặt trước";
+  "NOTIFICATION_CENTER" = "Trung tâm thông báo";
+  "NOTIFICATIONS" = "Thông báo";
+  "BANNERS" = "Banners";
+  "WIDGETS" = "Tiện ích (Widgets)";
+  "DETAILS" = "Chi tiết";
+  "NOW_PLAYING" = "Đang phát";
+  "EXPERIMENTAL" = "Cài đặt thử nghiệm";
+
+  "RESPRING" = "Respring";
+  "RESRPING_NEEDED" = "BẠN PHẢI RESPRING THIẾT BỊ CỦA BẠN SAU KHI CHỈNH SỬA CÀI ĐẶT Ở ĐÂY.";
+  "ARE_YOU_SURE_TO_RESET_PREFS" = "Bạn có chắc chắn muốn đặt lại tất cả các tùy chỉnh của bạn? Điều này không được hoàn tác lại.";
+  "OK" = "OK";
+  "CANCEL" = "Hủy";
+  "RESET_PREFS" = "Khôi phục cài đặt mặc định và respring";
+  "SOURCE_CODE" = "Mã nguồn";
+  "DONATE_TO_NEPETA" = "Ủng hộ cho Nepeta";
+  "SUPPORT_ME" = "Hỗ trợ tôi!";
+  "TEST_NOTIFICATIONS" = "Thông báo thử nghiệm";
+  "TEST_BANNER" = "Banner thử nghiệm";
+}
