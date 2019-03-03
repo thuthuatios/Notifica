@@ -1,0 +1,32 @@
+{
+  "BACKGROUND_COLOR" = "Màu nền";
+  "HEADER_TEXT_COLOR" = "Màu tiêu đề";
+  "CONTENT_TEXT_COLOR" = "Màu nội dung";
+  "NOTIFICATION_OPACITY" = "Độ mờ của thông báo";
+  "CORNER_RADIUS" = "Bo cong góc của thông báo";
+  "CENTER_CONTENTS" = "Nội dung ra giữa";
+  "ICON_CORNER_RADIUS" = "Bo cong góc biểu tượng";
+  "OUTLINE" = "Nét viền";
+  "THICKNESS" = "Độ dày";
+
+  "STYLE" = "Kiểu";
+  "MODERN" = "Hiện đại";
+  "MINIMALIST" = "Tối giản";
+  "HIDE_ICON" = "Ẩn biểu tượng";
+  "HIDE_TIME" = "Ẩn thời gian thông báo";
+  "HIDE_APP_NAME" = "Ẩn tên ứng dụng";
+
+  "DEFAULT" = "Mặc định";
+  "DYNAMIC" = "Năng động";
+  "CUSTOM" = "Tùy biến";
+  "CUSTOM_COLOR" = "Tùy biến màu";
+
+  "GRADIENT" = "Gradient";
+  "SECONDARY_COLOR" = "Màu thứ hai";
+
+  "BACKGROUND_BLUR_MODE" = "Chế độ làm mờ nền";
+  "DARK" = "Tối";
+  "LIGHT" = "Sáng";
+  "BACKGROUND_BLUR_OPACITY" = "Độ mờ blur của nền";
+  "BACKGROUND_BLUR_COLOR_OPACITY" = "Màu nền blur alpha";
+}
