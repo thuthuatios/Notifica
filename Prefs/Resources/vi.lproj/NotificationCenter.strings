@@ -1,0 +1,9 @@
+{
+  "HIDE_NO_OLDER" = "Ẩn \"Không có thông báo cũ hơn\"";
+  "IDLE_TIMER" = "Hẹn giờ tắt màn hình (Màn hình khóa)";
+  "VERTICAL_OFFSET" = "Bù đắp theo chiều dọc";
+  "VERTICAL_OFFSET_NOTIFICATIONS" = "Bù dọc: Thông báo";
+  "VERTICAL_OFFSET_NOW_PLAYING" = "Bù dọc: Đang phát";
+  "PULL_TO_CLEAR_ALL" = "Kéo để xóa tất cả các thông báo";
+	"NOTIFICATION_SPACING" = "Khoảng cách thông báo";
+}
